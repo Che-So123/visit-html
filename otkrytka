@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+    <body>
+        <head>
+            <title> Новогодняя открытка </title>
+        </head>
+        <main>
+            <div class="otkrytka">
+                <h1 align='center'>C наступающим новым годом</h1>
+                <p align='center'><img src="https://gas-kvas.com/uploads/posts/2023-02/1676370608_gas-kvas-com-p-risunok-detskii-novogodnyaya-yelochka-27.jpg" width="470" height="510" align='left' class='pa'><font size='6' face='Courier'>Родители с наступающим новым годом. Хочу вам сказать, что без вас не было бы ничего! Желаю вам здоровья, счастья. Мама давно хотела сказать,что ты самая лучшая. Папа ты очень веселый, с тобой можно прикалываться.</font></p>
+                
+            </div>
+        </main>
+    </body>
+</html>
