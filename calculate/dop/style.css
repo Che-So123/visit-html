@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://avatars.mds.yandex.net/i?id=e64e714639636e72115ddb189efea3bd02fe3cc2-5167594-images-thumbs&n=13');
+    color: #fd5e53;
+    text-align: center;
+}
+button {
+    background-color: #FF6347;
+    font-size: 20px;
+}
+input {
+    background-color: #FF6347;
+    font-size: 20px;
+}
+p {
+    font-size: 30px;
+}
+.three {
+    margin: 7px;
+}
+.three1 {
+    margin: 7px;
+}
