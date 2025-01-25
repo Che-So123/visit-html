@@ -1,0 +1,46 @@
+body{
+    background-color: #FFE4B5;
+}
+h5 {
+    margin: 5px;
+}
+.hder{
+    box-shadow: 2px 3px 7px 4px #F4A460;
+    border-radius: 20px;
+    padding: 5px;
+    text-align: 30px;
+    background-color: #FFFACD;
+    height: 70px;
+}
+.cs {
+    float: left;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+.item{
+    float: left;
+}
+input{
+    margin-top: 35px;
+    margin-left: 15px;
+    border: 3px dotted #DEB887;
+    background-color: #F5DEB3;
+}
+.mn{
+    box-shadow: 2px 3px 7px 4px #F4A460;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 5px;
+    text-align: left;
+    background-color: #FFFACD;
+}
+.ava {
+    margin-right: 10px;
+    border-radius: 15px;
+
+
+
+
+
+
+
