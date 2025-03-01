@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/29/62/03/29620388ba586eb31fad5670fa35bdb6.jpg') ;
+    color: #FFF;
+    font-style: italic;
+   align-content: center;
+   
+   
+}
+p {
+    float: left;
+    border: #FF0033 dashed;
+    margin-top: 50px;
+    padding: 10px;
+}
